@@ -1,4 +1,4 @@
-//Orestes Portela
+// Orestes Portela
 public class Eclipse {
 
 	public static void main(String[] args) {
